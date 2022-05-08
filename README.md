@@ -1,1 +1,1 @@
-# Predicting-Hotel-Availability
+# predicting_hotel_availability
